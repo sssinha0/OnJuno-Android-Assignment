@@ -3,7 +3,7 @@
 
 ## :scroll: Description:
 Hello Folks, Warm welcome! 
-I have developed an android app that lets you scan and verify the valid [BTC]((https://en.wikipedia.org/wiki/Bitcoin)) and [ETH]((https://en.wikipedia.org/wiki/Ethereum)). Once It recognizes a valid address, it allows you to share that address with others.
+I have developed an android app that lets you scan and verify the valid [BTC](https://en.wikipedia.org/wiki/Bitcoin) and [ETH](https://en.wikipedia.org/wiki/Ethereum). Once It recognizes a valid address, it allows you to share that address with others.
 
 ## Features:
 **-** Allows user to scan BTC & ETH address<br />
@@ -24,7 +24,7 @@ I have developed an android app that lets you scan and verify the valid [BTC]((h
 **-** Used camera library for camera purpose
 
 
-~Use below library:-<br />
+**~Use below library:-<br />**
 implementation 'androidx.camera:camera-camera2:1.1.0-alpha02'<br />
 implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02'<br />
 implementation 'androidx.camera:camera-view:1.0.0-alpha22'<br />
