@@ -12,6 +12,9 @@ implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02' </br>
 implementation 'androidx.camera:camera-view:1.0.0-alpha22' </br>
 implementation 'com.google.mlkit:barcode-scanning:16.1.1'
 
+## :Apk: Drive link
+Click [here](https://drive.google.com/file/d/13gUk3mdvQMgqZD7eKQJUrPCX2d53MktV/view?usp=sharing) to Download the apk.
+
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
