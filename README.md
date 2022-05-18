@@ -1,23 +1,33 @@
 # BTC/ETH Address validation Qr Code Scanner
 
 
-## :scroll: Description
-<!--- Describe your app in one or two sentences -->
-Hello, there.
-This is Qr Code Scanner app and it validate the BTC/ETH Address.
-
-Use below library:-</br>
-implementation 'androidx.camera:camera-camera2:1.1.0-alpha02' </br>
-implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02' </br>
-implementation 'androidx.camera:camera-view:1.0.0-alpha22' </br>
-implementation 'com.google.mlkit:barcode-scanning:16.1.1'
+## :scroll: Description:
+Hello Folks, Warm welcome! 
+I have developed an android app that lets you scan and verify the valid BTC(wikipedia link of Bitcoin) and ETH (wikipedia link of ETH). Once It recognizes a valid address, it allows you to share that address with others.
 
 ## Features
-  It verify the BTC address
-  It Verify the ETH Address
-  Share the Address to different App
-  Simple and Easy to Use
+. Allows user to scan BTC & ETH address
+. Verifies scanned BTC & ETH address
+. Allows user to share the valid BTC & ETH address
 
+
+## User guide:
+
+. Open the application
+. Choose BTC/ETH option
+. Scan the QR code
+. Share the address
+## Implementation details:
+
+. Used mlkit library for scan purpose
+. Used camera library for camera purpose
+
+
+~Use below library:-
+implementation 'androidx.camera:camera-camera2:1.1.0-alpha02'
+implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02'
+implementation 'androidx.camera:camera-view:1.0.0-alpha22'
+implementation 'com.google.mlkit:barcode-scanning:16.1.1'~
 ## Apk: Drive link
 Click [here](https://drive.google.com/file/d/13gUk3mdvQMgqZD7eKQJUrPCX2d53MktV/view?usp=sharing) to Download the apk.
 
