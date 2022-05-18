@@ -14,8 +14,10 @@ implementation 'com.google.mlkit:barcode-scanning:16.1.1'
 
 ## :Apk: Drive link
 Click [here](https://drive.google.com/file/d/13gUk3mdvQMgqZD7eKQJUrPCX2d53MktV/view?usp=sharing) to Download the apk.
-## App: Demo Video
-[![Demo App video]]([https://youtu.be/T-D1KVIuvjA](https://drive.google.com/file/d/1BKCTtblIVliA_WHOH00H_2gK_o0h4vLQ/view?usp=sharing))
+
+## :App: Demo Video
+https://user-images.githubusercontent.com/54070739/169012666-792ad4c7-1d05-455e-bee6-c79b7cd9e8b4.mp4
+
 
 
 ## :camera_flash: Screenshots
