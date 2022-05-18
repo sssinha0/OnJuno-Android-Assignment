@@ -50,5 +50,5 @@ https://user-images.githubusercontent.com/54070739/169024770-2289081e-b441-4346-
 <img src="/results/4.jpeg" width="260">
 
 ## Special thanks:
-  Special thanks to Prince Bhaiya  for testing app and Provide the Opportunity and motivate to do work
+  Special thanks to [Prince Bhaiya](https://github.com/princeNITian)  for testing app and Provide the Opportunity and motivate to do work
 ```
