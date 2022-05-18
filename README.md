@@ -15,7 +15,7 @@ implementation 'com.google.mlkit:barcode-scanning:16.1.1'
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot.png" width="260">
+
 <img src="/results/1.jpeg" width="260">
 <img src="/results/2.jpeg" width="260">
 <img src="/results/3.jpeg" width="260">
