@@ -20,7 +20,7 @@ I have developed an android app that lets you scan and verify the valid [BTC]((h
 **-** Share the address<br />
 ## Implementation details:
 
-**-** Used mlkit library for scan purpose
+**-** Used mlkit library for scan purpose<br />
 **-** Used camera library for camera purpose
 
 
