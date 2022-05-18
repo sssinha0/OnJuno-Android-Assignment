@@ -1,4 +1,4 @@
-# MLKit Qr Code Scanner
+# BTC/ETH Address validation Qr Code Scanner
 
 
 ## :scroll: Description
