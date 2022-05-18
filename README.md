@@ -6,21 +6,22 @@ Hello Folks, Warm welcome!
 I have developed an android app that lets you scan and verify the valid [BTC]((https://en.wikipedia.org/wiki/Bitcoin)) and [ETH]((https://en.wikipedia.org/wiki/Ethereum)). Once It recognizes a valid address, it allows you to share that address with others.
 
 ## Features
-. Allows user to scan BTC & ETH address<br />
-. Verifies scanned BTC & ETH address<br />
-. Allows user to share the valid BTC & ETH address<br />
+**.** Allows user to scan BTC & ETH address<br />
+**.** Verifies scanned BTC & ETH address<br />
+**.** Allows user to share the valid BTC & ETH address<br />
+
 
 
 ## User guide:
 
-. Open the application<br />
-. Choose BTC/ETH option<br />
-. Scan the QR code<br />
-. Share the address<br />
+**.** Open the application<br />
+**.** Choose BTC/ETH option<br />
+**.** Scan the QR code<br />
+**.** Share the address<br />
 ## Implementation details:
 
-. Used mlkit library for scan purpose
-. Used camera library for camera purpose
+**.** Used mlkit library for scan purpose
+**.** Used camera library for camera purpose
 
 
 ~Use below library:-<br />
@@ -45,5 +46,5 @@ https://user-images.githubusercontent.com/54070739/169012666-792ad4c7-1d05-455e-
 <img src="/results/4.jpeg" width="260">
 
 ## Special thanks
-  Special thanks to Prince Bhaiya  for testing app and Provoide the Opportunity and motivate to do work
+  Special thanks to Prince Bhaiya  for testing app and Provide the Opportunity and motivate to do work
 ```
