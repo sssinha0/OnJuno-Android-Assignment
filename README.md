@@ -3,31 +3,31 @@
 
 ## :scroll: Description:
 Hello Folks, Warm welcome! 
-I have developed an android app that lets you scan and verify the valid BTC(wikipedia link of Bitcoin) and ETH (wikipedia link of ETH). Once It recognizes a valid address, it allows you to share that address with others.
+I have developed an android app that lets you scan and verify the valid [BTC]((https://en.wikipedia.org/wiki/Bitcoin)) and [ETH]((https://en.wikipedia.org/wiki/Ethereum)). Once It recognizes a valid address, it allows you to share that address with others.
 
 ## Features
-. Allows user to scan BTC & ETH address
-. Verifies scanned BTC & ETH address
-. Allows user to share the valid BTC & ETH address
+. Allows user to scan BTC & ETH address<br />
+. Verifies scanned BTC & ETH address<br />
+. Allows user to share the valid BTC & ETH address<br />
 
 
 ## User guide:
 
-. Open the application
-. Choose BTC/ETH option
-. Scan the QR code
-. Share the address
+. Open the application<br />
+. Choose BTC/ETH option<br />
+. Scan the QR code<br />
+. Share the address<br />
 ## Implementation details:
 
 . Used mlkit library for scan purpose
 . Used camera library for camera purpose
 
 
-~Use below library:-<\br>
-implementation 'androidx.camera:camera-camera2:1.1.0-alpha02'<\br>
-implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02'<\br>
-implementation 'androidx.camera:camera-view:1.0.0-alpha22'<\br>
-implementation 'com.google.mlkit:barcode-scanning:16.1.1'<\br>
+~Use below library:-<br />
+implementation 'androidx.camera:camera-camera2:1.1.0-alpha02'<br />
+implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02'<br />
+implementation 'androidx.camera:camera-view:1.0.0-alpha22'<br />
+implementation 'com.google.mlkit:barcode-scanning:16.1.1'<br />
 ## Apk: Drive link
 Click [here](https://drive.google.com/file/d/13gUk3mdvQMgqZD7eKQJUrPCX2d53MktV/view?usp=sharing) to Download the apk.
 
