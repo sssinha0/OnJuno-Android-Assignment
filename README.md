@@ -23,11 +23,11 @@ I have developed an android app that lets you scan and verify the valid BTC(wiki
 . Used camera library for camera purpose
 
 
-~Use below library:-
-implementation 'androidx.camera:camera-camera2:1.1.0-alpha02'
-implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02'
-implementation 'androidx.camera:camera-view:1.0.0-alpha22'
-implementation 'com.google.mlkit:barcode-scanning:16.1.1'~
+~Use below library:-<\br>
+implementation 'androidx.camera:camera-camera2:1.1.0-alpha02'<\br>
+implementation 'androidx.camera:camera-lifecycle:1.1.0-alpha02'<\br>
+implementation 'androidx.camera:camera-view:1.0.0-alpha22'<\br>
+implementation 'com.google.mlkit:barcode-scanning:16.1.1'<\br>
 ## Apk: Drive link
 Click [here](https://drive.google.com/file/d/13gUk3mdvQMgqZD7eKQJUrPCX2d53MktV/view?usp=sharing) to Download the apk.
 
